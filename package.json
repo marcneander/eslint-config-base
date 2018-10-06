@@ -4,6 +4,23 @@
   "main": "index.js",
   "author": "Marc Neander <marcneander@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcneander/eslint-config-node"
+  },
+  "homepage": "https://marcneander.se",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "marcneander",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018"
+  ],
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint-config-airbnb-base": "^13.1.0",
