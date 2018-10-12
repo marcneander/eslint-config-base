@@ -1,11 +1,11 @@
 {
-  "name": "@marcneander/eslint-config-node",
-  "version": "1.0.1",
+  "name": "@marcneander/eslint-config-base",
+  "version": "1.0.0",
   "author": "Marc Neander <marcneander@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcneander/eslint-config-node"
+    "url": "https://github.com/marcneander/eslint-config-base"
   },
   "main": "index.js",
   "files": [

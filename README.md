@@ -1,14 +1,14 @@
-# @marcneander/eslint-config-node
+# @marcneander/eslint-config-base
 ## Install
 
-`yarn add --dev @marcneander/eslint-config-node`
+`yarn add --dev @marcneander/eslint-config-base`
 
 ## Usage
 Edit .eslintrc.js
 ```js
 module.exports = {
     extends: [
-        '@marcneander/node'
+        '@marcneander/base'
     ],
     ...
 }

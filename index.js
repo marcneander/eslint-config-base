@@ -7,5 +7,17 @@ module.exports = {
     plugins: ['prettier'],
     env: {
         node: true
+    },
+    rules: {
+        // prettier
+        'prettier/prettier': [
+            'error',
+            {
+                singleQuote: true,
+                trailingComma: 'none',
+                tabWidth: 4,
+                printWidth: 120
+            }
+        ]
     }
 };
