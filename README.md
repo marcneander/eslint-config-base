@@ -12,6 +12,9 @@
 </p>
 
 # eslint-config-base
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcneander/eslint-config-base.svg)](https://greenkeeper.io/)
+
 ## Install
 
 `yarn add --dev @marcneander/eslint-config-base`
